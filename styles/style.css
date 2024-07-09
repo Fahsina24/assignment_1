@@ -40,17 +40,15 @@
      text-align: center;
      display: flex;
      flex-direction: column;
-     height: 600px;
      justify-content: center;
-     align-items: center;
-     border: 5px solid black;
+
  }
 
 .banner-element {
-     width: 840px;
-     height: 500px;
+     max-width:840px;
+     min-height:500px;
      margin: 44px auto 44px;
-     border: 5px solid black;
+     
 }
 
 .banner-element h3{
