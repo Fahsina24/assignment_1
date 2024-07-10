@@ -170,3 +170,32 @@ max-width: 1000px;
      margin: 20px;
 
 }
+
+.target_module{
+     display: flex;
+     justify-content:space-around;
+     margin: 30px 70px;
+     max-width: 1000px; 
+     min-height: 350px;
+}
+.section1{
+     border-radius: 16px;
+     background: rgba(255, 76, 30, 0.05);
+     margin:32px 15px 32px 0px;
+     padding:20px;
+}
+.section2{
+     border-radius: 16px;
+     background: rgba(0, 76, 232, 0.05); 
+     margin: 32px 0px;
+     padding:20px;
+}
+.section3{
+     border-radius: 16px;
+     background: rgba(14, 3, 167, 0.066);
+     margin:32px 0px 32px 15px;
+     padding:20px;
+}
+.target_module a{           
+     color:black;
+};
