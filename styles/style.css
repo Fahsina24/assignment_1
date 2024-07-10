@@ -40,7 +40,7 @@ body{
 }
 .main_border{
      min-height: 800px;
-     max-width:1300px ;
+     max-width:1200px ;
      margin: 74px auto 100px;
      border-radius: 16px;
      background: rgba(36, 15, 104, 0.02);
@@ -64,7 +64,7 @@ body{
 /* banner styles here */
 
 .banner_container{
-     max-height:600px;
+     min-height:600px;
      background-image:url(../assets/Hero-bg.png);
      background-position: center;
      background-repeat: no-repeat;
