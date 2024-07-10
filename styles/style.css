@@ -162,7 +162,8 @@ border: 1px solid rgba(13, 19, 33, 0.2);
 border-radius: 16px;
 display: flex;
 justify-content: center;
-margin: 30px 100px;
+margin: 30px 70px;
+max-width: 1000px;
 }
 .video_insert iframe{
      border-radius: 16px;
